@@ -1,5 +1,5 @@
 # oolong-sleepwalking
-`Track of the front-end development，from meeting the basic needs,to a more efficient and rich formation level.`
+`Throughout the development track of the front-end ，it's a continuously history of improving the function from meeting the basic needs,to a more efficient and rich formation level.`
 
 * [JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 * [jQuery](http://www.w3school.com.cn/jquery/)
