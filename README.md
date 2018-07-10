@@ -3,6 +3,8 @@
 
 * [JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 * [jQuery](http://www.w3school.com.cn/jquery/)
+* [sea.js](https://seajs.github.io/seajs/docs/)
+* [require.js](https://requirejs.org/)
 * [ES6](http://es6.ruanyifeng.com/)
 * [webpack](https://webpack.js.org/concepts/)
 * [Node.js](https://nodejs.org/en/docs/)
